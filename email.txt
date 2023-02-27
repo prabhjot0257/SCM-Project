@@ -1,1 +1,2 @@
 email informationn is added
+eamil information is commited also and hence conflict is reslove
